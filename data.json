@@ -1,0 +1,20 @@
+[
+  {
+    "src": "./music/一路生花.flac",
+    "title": "一路生花",
+    "author": "温奕心",
+    "img": "./music/一路生花.png"
+  },
+  {
+    "src": "./music/买辣椒也用券 - 起风了.flac",
+    "title": "起风了",
+    "author": "买辣椒也用券",
+    "img": "./music/起风了.png"
+  },
+  {
+    "src": "./music/你家七哥ya - 好运来.mp3",
+    "title": "好运来",
+    "author": "你家七哥ya",
+    "img": "./music/好运来.png"
+  }
+]

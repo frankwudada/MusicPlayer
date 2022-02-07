@@ -1,0 +1,37 @@
+{
+  "id": "3166399",
+  "name": "音乐播放器",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2076218",
+      "name": "播放2",
+      "font_class": "Playing",
+      "unicode": "e87c",
+      "unicode_decimal": 59516
+    },
+    {
+      "icon_id": "7594152",
+      "name": "24gf-pause2",
+      "font_class": "Pause",
+      "unicode": "ea81",
+      "unicode_decimal": 60033
+    },
+    {
+      "icon_id": "8713979",
+      "name": "18右前进",
+      "font_class": "Backward",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "8713987",
+      "name": "20左前进",
+      "font_class": "Forward",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    }
+  ]
+}
